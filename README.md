@@ -1,0 +1,2 @@
+# ghostaimbots
+script universal
